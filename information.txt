@@ -1,0 +1,13 @@
+Cấu trúc dữ liệu mảng.O(1)
+Cấu trúc dữ liệu ngăn xếp.
+Cấu trúc dữ liệu hàng đợi.
+Danh sách liên kết.
+Cấu trúc dữ liệu cây.
+Cấu trúc đồ thị. 
+
+Giải thuật tìm kiếm.
+Giải thuật sắp xếp.
+Giải thuật đệ quy.
+Giải thuật quy hoạch động.
+Giải thuật tham làm.
+Giải thuật chia để trị.
