@@ -2,9 +2,6 @@ import Foundation
 //Sàng nguyên tố Eratosthenes
 func snt(_ n: Int) -> [Bool] {
     var arr = [Bool](repeating: true, count: n + 1)
-    for i in 2...n {
-        arr[i] = true
-    }
     arr[0] = false
     arr[1] = false
     for i in 2...Int(Double(n).squareRoot()) {
