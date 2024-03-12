@@ -1,5 +1,7 @@
 import Foundation
 //Sàng nguyên tố Eratosthenes
+//GCPD (Greatest Common Prime Divisor) được định nghĩa là số nguyên tố lớn nhất là ước của các số nguyên dương cho trước. 
+//Nhiệm vụ của bạn là tìm GCPD của hai số nguyên a và b.
 func snt(_ n: Int) -> [Bool] {
     var arr = [Bool](repeating: true, count: n + 1)
     arr[0] = false

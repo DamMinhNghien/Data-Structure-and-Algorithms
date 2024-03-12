@@ -1,3 +1,4 @@
+//Cho một danh sách các phân số, hãy tìm chỉ số của phân số lớn nhất (đếm từ 0)
 import Foundation
 //maxFraction
 func maxFraction(_ array1: [Int],_ array2: [Int])->Int{
